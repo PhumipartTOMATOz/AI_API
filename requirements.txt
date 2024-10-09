@@ -1,4 +1,4 @@
-*62Flask==3.0.3
+60Flask==3.0.3
 pandas==2.2.3
 torch==2.4.1
 torchaudio==2.4.1
